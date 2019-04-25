@@ -1,0 +1,35 @@
+html {
+  font-size: 0.83rem;
+}
+h1 {
+  margin-bottom: 1.4em;
+}
+h2 {
+  margin-bottom: 1em;
+}
+p {
+  line-height: 1.8rem;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1, h2, h3, h4, h5, h6,
+p, span, pre, a, blockquote {
+  font-family: 'Noto Sans KR', 'Nanum Barun Gothic', 'Nanum Gothic', 'Malgun Gothic', 'Dotum', sans-serif;
+}
+h1, h2, h3, h4, h5 h6 {
+  font-size: 1rem;
+}
+h1, p, span, pre, a, blockquote {
+  color: #333333;
+}
+h2, h3, h4, h5, h6 {
+  color: #555555;
+}
+div, section, article, p,
+h1, h2, h3, h4, h5, h6, li {
+  box-sizing: border-box;
+}
